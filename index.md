@@ -1,7 +1,2 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Getting 3D from 2D for Australian Vegetation
+This is a personal blog about my experiences with modelling vegetation using drone acquired imagery. While there are many publications on northern hemisphere forests Australian native forests contain features that don't adhere to the basic requirements of photogrammetry. 
