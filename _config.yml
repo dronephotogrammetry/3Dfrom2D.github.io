@@ -6,34 +6,64 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: 3D Vegetation modelling using drones
+
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+
+github_username: @dronephotogrammetry
+
+
 
 # Email and twitter are optional:
-email: 
-twitter_username: 
+
+email: andrewthomasfletcher(remtext)@gmail.com
+
+twitter_username: @EVB221
+
+
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+
+use_math: True
+
+
 
 # Everything below here can be ignored, unless you want to change the theme entirely
+
 theme: minima
+
 plugins:
+
   - jekyll-feed
+
   - jekyll-gist
+
   - jekyll-octicons
 
+
+
 titles_from_headings:
+
   enabled:     true
+
   strip_title: true
+
   collections: true
 
+
+
 highlighter: rouge
+
 markdown: kramdown
+
 kramdown:
+
   math_engine: katex
+
   input: GFM
+
   auto_ids: true
+
   hard_wrap: false
+
   syntax_highlighter: rouge
